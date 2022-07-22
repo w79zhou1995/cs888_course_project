@@ -1,0 +1,5 @@
+Compilation: default premake4/make combination. I compiled and rendered my scene on gl42.
+
+The extra feature I implemented is reflection. I created a scene of a balloon dog, a lego block and some other geometries and it demonstrates my extra feature.
+
+In addition to the required test images, I also rendered other test scripts we were given, such as hier.png and nonhier2.png.  
